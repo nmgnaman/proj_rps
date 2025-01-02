@@ -1,0 +1,14 @@
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\bin\Debug\net8.0\ProjectRockPaperScissor.exe
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\bin\Debug\net8.0\ProjectRockPaperScissor.deps.json
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\bin\Debug\net8.0\ProjectRockPaperScissor.runtimeconfig.json
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\bin\Debug\net8.0\ProjectRockPaperScissor.dll
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\bin\Debug\net8.0\ProjectRockPaperScissor.pdb
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\ProjectRockPaperScissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\ProjectRockPaperScissor.AssemblyInfoInputs.cache
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\ProjectRockPaperScissor.AssemblyInfo.cs
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\ProjectRockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\ProjectRockPaperScissor.dll
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\refint\ProjectRockPaperScissor.dll
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\ProjectRockPaperScissor.pdb
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\ProjectRockPaperScissor.genruntimeconfig.cache
+C:\Users\gupta\source\repos\ProjectRockPaperScissor\obj\Debug\net8.0\ref\ProjectRockPaperScissor.dll
